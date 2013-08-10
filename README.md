@@ -1,0 +1,2 @@
+ExemploWinRT-SplashEstendida
+============================
