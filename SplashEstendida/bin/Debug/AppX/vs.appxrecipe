@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDRENOTEDELL</Machine>
+    <WindowsUser>André</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>19713259114FA020A75C3D87746A3D368D2671A094AB6E43B934DD5C4F21CAEE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b74f8a7a-39fe-47cb-828c-53cba5f19215_1.0.0.0_neutral__pbvqzr6vqyypm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b74f8a7a-39fe-47cb-828c-53cba5f19215_pbvqzr6vqyypm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b74f8a7a-39fe-47cb-828c-53cba5f19215</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=André</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-17T10:49:11.760</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\SplashEstendida.exe">
+      <PackagePath>SplashEstendida.exe</PackagePath>
+      <Modified>2013-07-17T10:53:52.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\SplashEstendida.pdb">
+      <PackagePath>SplashEstendida.pdb</PackagePath>
+      <Modified>2013-07-17T10:53:52.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-09T04:21:14.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-09T04:21:14.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\SplashPage.xaml">
+      <PackagePath>SplashPage.xaml</PackagePath>
+      <Modified>2013-07-17T10:53:51.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\SplashEstendida\SplashEstendida\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-17T10:49:11.271</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
